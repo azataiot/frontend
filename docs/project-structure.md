@@ -5,6 +5,7 @@ tree -L 3 -I '.git|__pycache__|.venv|.next|.idea|node_modules|uploads|docs' --no
 ./
 ├── app
 │   ├── favicon.ico
+│   ├── apple-icon.png
 │   ├── globals.css
 │   ├── layout.tsx
 │   └── page.tsx
